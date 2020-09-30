@@ -1,0 +1,51 @@
+C:\Users\abley\source\repos\GameServer\GameServer\obj\Debug\GameServer.csprojAssemblyReference.cache
+C:\Users\abley\source\repos\GameServer\GameServer\bin\Debug\GameServer.exe.config
+C:\Users\abley\source\repos\GameServer\GameServer\bin\Debug\GameServer.exe
+C:\Users\abley\source\repos\GameServer\GameServer\bin\Debug\GameServer.pdb
+C:\Users\abley\source\repos\GameServer\GameServer\bin\Debug\Json.Net.dll
+C:\Users\abley\source\repos\GameServer\GameServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\abley\source\repos\GameServer\GameServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\abley\source\repos\GameServer\GameServer\obj\Debug\GameServer.csproj.CopyComplete
+C:\Users\abley\source\repos\GameServer\GameServer\obj\Debug\GameServer.exe
+C:\Users\abley\source\repos\GameServer\GameServer\obj\Debug\GameServer.pdb
+M:\3rd Year\CE303 Advanced Programming\Projects\GameServer\GameServer\bin\Debug\GameServer.exe.config
+M:\3rd Year\CE303 Advanced Programming\Projects\GameServer\GameServer\obj\Debug\GameServer.exe
+M:\3rd Year\CE303 Advanced Programming\Projects\GameServer\GameServer\obj\Debug\GameServer.pdb
+M:\3rd Year\CE303 Advanced Programming\Projects\GameServer\GameServer\bin\Debug\GameServer.exe
+M:\3rd Year\CE303 Advanced Programming\Projects\GameServer\GameServer\bin\Debug\GameServer.pdb
+M:\3rd Year\CE303 Advanced Programming\Projects\GameServer\GameServer\bin\Debug\Json.Net.dll
+M:\3rd Year\CE303 Advanced Programming\Projects\GameServer\GameServer\bin\Debug\Newtonsoft.Json.dll
+M:\3rd Year\CE303 Advanced Programming\Projects\GameServer\GameServer\bin\Debug\System.Collections.NonGeneric.dll
+M:\3rd Year\CE303 Advanced Programming\Projects\GameServer\GameServer\bin\Debug\Newtonsoft.Json.xml
+M:\3rd Year\CE303 Advanced Programming\Projects\GameServer\GameServer\obj\Debug\GameServer.csprojResolveAssemblyReference.cache
+E:\GameServer\GameServer\bin\Debug\GameServer.exe.config
+E:\GameServer\GameServer\obj\Debug\GameServer.exe
+E:\GameServer\GameServer\obj\Debug\GameServer.pdb
+E:\GameServer\GameServer\bin\Debug\GameServer.exe
+E:\GameServer\GameServer\bin\Debug\GameServer.pdb
+E:\GameServer\GameServer\bin\Debug\Json.Net.dll
+E:\GameServer\GameServer\bin\Debug\Newtonsoft.Json.dll
+E:\GameServer\GameServer\bin\Debug\System.Collections.NonGeneric.dll
+E:\GameServer\GameServer\bin\Debug\Newtonsoft.Json.xml
+E:\GameServer\GameServer\obj\Debug\GameServer.csprojResolveAssemblyReference.cache
+C:\Projects\savegame\GameServer\GameServer\bin\Debug\GameServer.exe.config
+C:\Projects\savegame\GameServer\GameServer\bin\Debug\GameServer.exe
+C:\Projects\savegame\GameServer\GameServer\bin\Debug\GameServer.pdb
+C:\Projects\savegame\GameServer\GameServer\bin\Debug\Json.Net.dll
+C:\Projects\savegame\GameServer\GameServer\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\savegame\GameServer\GameServer\bin\Debug\System.Collections.NonGeneric.dll
+C:\Projects\savegame\GameServer\GameServer\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\savegame\GameServer\GameServer\obj\Debug\GameServer.csprojAssemblyReference.cache
+C:\Projects\savegame\GameServer\GameServer\obj\Debug\GameServer.csproj.CopyComplete
+C:\Projects\savegame\GameServer\GameServer\obj\Debug\GameServer.exe
+C:\Projects\savegame\GameServer\GameServer\obj\Debug\GameServer.pdb
+C:\Projects\GameServer\GameServer\bin\Debug\GameServer.exe.config
+C:\Projects\GameServer\GameServer\bin\Debug\GameServer.exe
+C:\Projects\GameServer\GameServer\bin\Debug\GameServer.pdb
+C:\Projects\GameServer\GameServer\bin\Debug\Json.Net.dll
+C:\Projects\GameServer\GameServer\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\GameServer\GameServer\bin\Debug\System.Collections.NonGeneric.dll
+C:\Projects\GameServer\GameServer\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\GameServer\GameServer\obj\Debug\GameServer.csproj.CopyComplete
+C:\Projects\GameServer\GameServer\obj\Debug\GameServer.exe
+C:\Projects\GameServer\GameServer\obj\Debug\GameServer.pdb
