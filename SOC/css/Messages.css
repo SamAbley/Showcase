@@ -1,0 +1,477 @@
+#messageWrapper{
+    align-items: center;
+    justify-content: space-evenly;
+    display: grid;
+    height: 700px;
+    width: 700px;
+    grid-template-columns: 1fr 3fr;
+    grid-template-rows: auto;
+    margin: 100px auto;
+    position: relative;
+}
+
+#listWrapper{
+    width: 200px;
+    height: 100%;
+    border: 1px black solid;
+    background: white;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+
+    float: left;
+}
+
+#listTitle{
+    margin-top: 20px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: ranchoregular;
+}
+#list{
+    width: 80%;
+    height: 67%;
+    padding: 10px;
+    border: 1px solid black;
+
+position: relative;
+    border-radius: 10px;
+    margin: 0 auto;
+    background-color: rgb(240, 240, 240);
+}
+
+.user {
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    margin-bottom: 6px;
+    font-size: 13px;
+    width: 80%;
+    box-shadow: none;
+
+}
+
+.user:hover, .user.active {
+    color: white;
+    font-weight: bold;
+}
+
+
+
+.listName {
+    display: inline-block;
+    position: absolute;
+    margin-left: 60px;
+    font-family: Helvetica;
+    font-size: 14px;
+    margin-top: -33px;
+    overflow-x: auto;
+    width: 70px;
+}
+
+.listPic {
+    position: relative;
+    width: 50px;
+    height: 50px;
+    background: white;
+    border: 1px black solid;
+    border-radius: 50%;
+    overflow: hidden;
+    left: -4px;
+
+}
+
+.listPic img {
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+#listSearch{
+    width: 90%;
+    height: 40px;
+    margin: 0 auto 10px auto;
+}
+
+.ListSearchBox {
+    position: relative;
+    background: linear-gradient(180deg, rgb(145, 231, 219), rgb(80, 90, 120));
+border: 1px black solid;
+    top: 0;
+    border-radius: 6px;
+    width: 100%;
+    height: 40px;
+    transition: 0.1s;
+
+}
+
+
+
+
+
+.listSearchBox:hover > .listSearchButton {
+    cursor: pointer;
+}
+
+.listSearchButton {
+    border: none;
+    text-decoration: none;
+    border-radius: 6px;
+    height: 40px;
+    width: 40px;
+    z-index: 2;
+    background: none;
+    display: inline-block;
+    position: absolute;
+    left: 0;
+}
+
+
+
+
+.listSearchInput {
+    border: none;
+    background: none;
+    font-size: 22px;
+    outline: none;
+    right: 0;
+    position: absolute;
+    padding: 0;
+    width: 72%;
+    font-weight: 600;
+    line-height: 200%;
+}
+
+.ListSearchInput::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+
+}
+
+
+.listSearchInput::-ms-input-placeholder { /* Microsoft Edge */
+    color: white;
+
+}
+
+#searchResult{
+    bottom: 10px;
+}
+
+#feedWrapper{
+    width: 500px;
+    height: 100%;
+    border: 1px solid black;
+    background: white;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    float: right;
+
+}
+#feedCover{
+    position: absolute;
+    width: 500px;
+    height: 100%;
+    border: 1px solid black;
+    background: white;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    right: -2px;
+    z-index: 3;
+    text-align: center;
+}
+
+#feedCover img {
+    width: 100px;
+    height: 100px;
+    margin-top: 50%;
+}
+#topWrapper{
+    padding: 10px;
+    width: 80%;
+    display: inline-block;
+}
+
+#feedTitle{
+    position: relative;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: ranchoregular;
+    left: 45px;
+    bottom: 8px;
+    display: inline-block;
+}
+.userPicL {
+    position: relative;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    border: 1px black solid;
+    border-radius: 50%;
+    overflow: hidden;
+    top: 10px;
+    left: 10%;
+}
+
+.userPicL img {
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+#reverseWrapper{
+    display:flex;
+    flex-direction:column;
+    height: 500px;
+}
+#feed{
+    width: 80%;
+    height: 80%;
+    padding: 10px;
+    border: 1px solid black;
+    background-color: rgb(240, 240, 240);
+    border-radius: 10px;
+    margin: 0 auto;
+    overflow: auto;
+    flex: 1;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+#bottomWrapper{
+    margin: 0 auto;
+    padding-top: 10px;
+    width: 80%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+#message, #caption{
+margin-right: 10px;
+margin-left: -10px;
+
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+    width: 300px;
+    z-index: 1;
+}
+
+.mesBut {
+    width: 32px;
+    height: 31px;
+}
+
+
+.messageName {
+    font-family: Helvetica;
+    font-size: 18px;
+
+    display: inline-block;
+    position: relative;
+    bottom: 8px;
+}
+
+.wholeMessage {
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 4px;
+    padding: 10px;
+    display: block;
+    background: white;
+    position: relative;
+    margin: 10px auto;
+    width: 90%;
+
+}
+
+.date {
+    color: grey;
+    float: right;
+    top: 0;
+    font-size: 12px;
+}
+
+.userPic {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    border: 1px black solid;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-right: 4px;
+}
+
+.userPic img {
+
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.messageBody {
+    display: block;
+    font-size: 16px;
+    margin: 5px 8px;
+
+}
+
+.messageImg {
+    width: 100%;
+    height: auto;
+    max-height: 100%;
+}
+
+#imgCover{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border: 1px solid black;
+    left: -1px;
+    background: rgba(0,0,0,0.5);
+    border-radius: 10px;
+    z-index: 4;
+    display: none;
+
+}
+
+#sendImgDiv{
+    width: 400px;
+    height: 500px;
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    border-radius: 10px;
+    background: white;
+}
+
+#sendImgTop{
+    width: 100%;
+    height: 50px;
+    display: inline-block;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    overflow: hidden;
+}
+
+#sendImgMid {
+    width: 100%;
+    height: 400px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+#detailsWrapper{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding: 8px 5px;
+    display: none;
+}
+
+#uploadImages {
+    position: relative;
+    height: 400px;
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    overflow: hidden;
+    display: grid;
+    align-items: center;
+    background: white;
+    margin-bottom: -10px;
+
+}
+
+#uploadPhoto {
+    display: none;
+}
+
+#uploadPhotoLabel {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    display: grid;
+    align-items: center;
+    z-index: 3;
+    background: none;
+    color: transparent;
+    cursor: pointer;
+}
+
+#uploadDescription {
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    padding: 10px;
+}
+
+#upPhoto{
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+#imgFile{
+    float: left;
+    left: 30px;
+    top: 5px;
+}
+
+
+#uploadBut{
+    width: 25px;
+    height: 25px;
+   transform: none;
+}
+
+.notOnline, .nameOnline{
+    position: absolute;
+    padding: 5px;
+    border: 1px solid black;
+    z-index: 3;
+    border-radius: 50%;
+    background: rgba(0, 204, 0,1);
+    width: 2px;
+    height: 2px;
+}
+
+/* user list */
+.notOnline {
+    left: 48px;
+    top: 5px;
+
+}
+
+/* In Chat */
+.nameOnline {
+    position: absolute;
+left: -25px;
+
+    top: -10px;
+
+}

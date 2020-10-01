@@ -1,0 +1,87 @@
+
+/* Style the buttons inside the tab */
+.tablinks {
+    position: relative;
+    margin: auto;
+    //border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    outline: none;
+    background: rgba(145, 231, 219, 0.8);
+    transition: 0.3s;
+    width: 240px;
+    height: auto;
+    background: white;
+    font-size: 30px;
+    padding: 7px 10px;
+    font-family: ranchoregular;
+    display: inline-block;
+    font-weight: 700;
+    letter-spacing: 1px;
+
+}
+
+
+/* Change background color of buttons on hover */
+.tablinks:hover {
+    letter-spacing: 2px;
+    background: linear-gradient(180deg, rgb(145, 231, 219), rgb(80, 90, 120));
+    cursor: pointer;
+    box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.7);
+    z-index: 1;
+    transition: all 0.1s ease 0s;
+    transform: scale(1);
+    border-width: 2px;
+
+
+}
+
+/* Create an active/current tablink class */
+.tablinks.active {
+    letter-spacing: 2px;
+    background: linear-gradient(180deg, rgb(145, 231, 219), rgb(80, 90, 120));
+    border-width: 2px;
+border: inset;
+
+}
+
+.tablinks.log {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    width: 250px;
+    margin-top: 30px;
+
+}
+
+.tablinks.active.log {
+
+    border-bottom: none;
+}
+
+.tablinks.active:hover {
+
+    transform: none;
+    cursor: default;
+    box-shadow: none;
+    color: black;
+}
+
+.tabcontent {
+    display: none;
+    height: auto;
+    width: 480px;
+    margin: 0 auto 0 auto;
+    border-left: 2px solid rgba(0, 0, 0, 0.2);
+    border-right: 2px solid rgba(0, 0, 0, 0.2);
+    border-bottom: 2px solid rgba(0, 0, 0, 0.2);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    overflow: hidden;
+    align-items: center;
+    padding: 10px;
+    box-shadow: 0 20px 40px -10px rgba(0, 0, 0, 0.3);
+    background: white;
+}
+
+.tabcontent.active {
+    display: grid;
+}

@@ -1,0 +1,221 @@
+.tablinks {
+    position: relative;
+
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    outline: none;
+    background: rgba(145, 231, 219, 0.8);
+    transition: 0.3s;
+    width: 49%;
+    height: 50px;
+    background: white;
+    font-size: 25px;
+    padding: 7px 10px;
+    font-family: ranchoregular;
+    display: inline-block;
+    font-weight: 700;
+    letter-spacing: 1px;
+
+
+}
+
+
+/* Change background color of buttons on hover */
+.tablinks:hover {
+    letter-spacing: 2px;
+    background: linear-gradient(180deg, rgb(145, 231, 219), rgb(80, 90, 120));
+    cursor: pointer;
+    box-shadow: 0 5px 40px -10px rgba(0, 0, 0, 0.7);
+    z-index: 1;
+    transition: all 0.1s ease 0s;
+    transform: scale(1);
+    border-width: 2px;
+    border-style: outset;
+    border-bottom-color: rgba(80, 90, 120, 0.8);
+    border-right-color: rgba(80, 90, 120, 0.8);
+    border-left-color: rgba(145, 231, 219, 0.8);
+    border-top-color: rgba(145, 231, 219, 0.8);
+
+}
+
+/* Create an active/current tablink class */
+.tablinks.active {
+    letter-spacing: 2px;
+    background: linear-gradient(180deg, rgb(145, 231, 219), rgb(80, 90, 120));
+    border-width: 2px;
+    border-style: inset;
+    border-top-color: rgba(80, 90, 120, 0.8);
+    border-left-color: rgba(80, 90, 120, 0.8);
+    border-right-color: rgba(145, 231, 219, 0.8);
+    border-bottom-color: rgba(145, 231, 219, 0.8);
+    border-bottom: none;
+}
+
+
+.tablinks.active:hover {
+    transform: none;
+    cursor: default;
+    box-shadow: none;
+    color: black;
+}
+
+.tabcontent {
+    display: none;
+    height: 100%;
+    width: 100%;
+    align-items: center;
+}
+
+.tabcontent.active {
+    display: grid;
+}
+
+#uploadDescriptionWrapper {
+    position: relative;
+    height: auto;
+    width: 680px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top: 1px solid black;
+    overflow: hidden;
+    margin: 0 auto 0 auto;
+    align-items: center;
+    background: white;
+    font-size: 20px;
+    padding: 10px;
+    font-family: Helvetica;
+
+}
+
+#uploadImages {
+    position: relative;
+    height: auto;
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    overflow: hidden;
+    display: grid;
+    align-items: center;
+    background: white;
+    margin-bottom: 0;
+
+}
+
+#uploadPhoto {
+    display: none;
+}
+
+#uploadPhotoLabel {
+    position: relative;
+    height: auto;
+    width: 100%;
+    overflow: hidden;
+    display: grid;
+    align-items: center;
+    z-index: 4;
+    background: none;
+    color: transparent;
+    cursor: pointer;
+}
+
+#uploadDescription {
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    padding: 10px;
+}
+
+.uploadText {
+    padding: 10px;
+    font-family: Helvetica;
+}
+
+
+#uploadProfile {
+    width: 90px;
+    color: transparent;
+}
+
+#uploadWrapper #upPhoto {
+     width: 701px; /*width of parent container*/
+     height: auto; /*height of parent container*/
+     max-height: 700px;
+     object-fit: contain;
+     position: relative;
+ }
+#uploadWrapper #photoWrapper {
+    position: relative;
+    width: 700px;
+    height: auto;
+
+    overflow: hidden;
+    text-align: center;
+}
+
+#uploadWrapper #ogPhoto {
+    height: 30%;
+    width: 30%;
+    object-fit: contain;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+
+
+.tabButs {
+margin-top: 10px;
+    text-align: center;
+    align-items: center;
+
+    height: auto;
+}
+
+.sliderLabelEdit {
+
+}
+
+.sliderWrapperEdit {
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    padding: 5px;
+    grid-template-columns: auto auto 1fr 1fr;
+    width: 93%;
+}
+
+#sliderWrapperEdit label {
+    margin-left: 10px;
+}
+
+#sliderWrapperEdit .slider {
+    appearance: none;
+    margin-bottom: 10px;
+    transition: 0.2s;
+}
+
+#sliderWrapperEdit .slider:hover {
+    appearance: none;
+    background: linear-gradient(180deg, rgb(145, 231, 219), rgb(80, 90, 120));
+
+}
+
+#sliderWrapperEdit #blurDisplay {
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+    font-weight: bold;
+    padding: 2px;
+}
+
+
+#edit{
+    grid-template-columns: 1fr 5fr;
+    padding: 10px;
+  display: none;
+}
+#details{
+    display: grid;
+    max-height: 360px;
+}
+
