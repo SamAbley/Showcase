@@ -5,4 +5,4 @@
 
 **SOC: Sharing Over The Cloud**
 
-Currently this is being updated
+This file is still currently being updated
