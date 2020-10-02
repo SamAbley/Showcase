@@ -1,6 +1,6 @@
 # SOC: Sharing Over the Cloud web app
 **If you want to view the output of this poject then go to [SOC](http://ec2-3-8-195-243.eu-west-2.compute.amazonaws.com/SOC/)**
 
-Components like securty keys for AWS and Google have been removed to stop any security issues. This means that the files will not work on a local server. These files have been included so that the working of the app can be viewed.
+Files that include components like security keys for AWS and Google have been removed to stop any security threats. This means that the files will not work on a local server if downloaded. These files have been included so that the working of the app can be viewed.
 
-Currently this is being updated
+This file is still currently being updated
