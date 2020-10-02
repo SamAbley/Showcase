@@ -8,8 +8,9 @@ This project is a web app that utilizes the cloud. This web app allows users to 
  - CloudFront for data privacy 
  - Rekognition for machine learning
 
+
 Files that include components like security keys for AWS and Google have been removed to stop any security threats. This means that the files will not work on a local server if downloaded. These files have been included so that the working of the app can be viewed. 
 
-All code was written and belongs to Sam Abley
+*All code was written and belongs to Sam Abley*
 
 This file is still currently being updated
