@@ -21,6 +21,6 @@ The users can upload any images from their own machine. If they are above 5mb th
 
 Files that include components like security keys for AWS and Google have been removed to stop any security threats. This means that the files will not work on a local server if downloaded. These files have been included so that the working of the app can be viewed. 
 
-*All code was written and belongs to Sam Abley*
+*All code was produced, maintianed and belongs to Sam Abley. The only additional code from third parties are the AWS API's*
 
 This file is still currently being updated
