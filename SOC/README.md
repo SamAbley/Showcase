@@ -11,11 +11,13 @@ This project is a web app that utilizes the cloud. This web app allows users to 
 ## Sign Up
 Users have to sign up to share their images. They need to insert a valid email and password (over 8 characters and include a number) to sign up to this app. When signin up users will have to pass a verification test via Googles Recaptcha V2. This is to stop any bots or spam sign ups. The databse is also protected from SQL injection attacks by using prepared statments. Once they have signed up, users will recieve an email verification that they wuill have to confirm before rthey are aloud to access thier account.
 
-**Sign In**
+## Sign In
 Once users have signed up, they will then have access to their own profile which can be viewed by others. The profile has a name, a profile picture and a bio that the user can customise to make it more personal. From this page, the user now can access uploading photos and instant messaging.
 
-**Uploading Images**
+## Uploading Images
 The users can upload any images from their own machine. If they are above 5mb then they will be compressed to bellow that value to save storage. Once the image file ahs been chosen, it then appears as a preview to the user so they can see what it looks like. Users can then add attributes to the photo like a name, description, categories and whether they are public or not. These attributes can help other users find these images through the search engine. Their are restriction on what images are allowed to be uploaded. Machine learning is implmented to extract festures and words from the images so that they can be checked against a list of banned features and words. This feture stops offensive images and memes from filling the site.
+
+## Instant Messaging
 
 Files that include components like security keys for AWS and Google have been removed to stop any security threats. This means that the files will not work on a local server if downloaded. These files have been included so that the working of the app can be viewed. 
 
