@@ -4,11 +4,9 @@
 This web app allows users to sign up, sign in, share photos and communicate with on another.
 
 **Sign Up**
-
 Users have to sign up to share their images. They need to insert a valid email and password (over 8 characters and include a number) to sign up to this app. When signin up users will have to pass a verification test via Googles Recaptcha V2. This is to stop any bots or spam sign ups. The databse is also protected from SQL injection attacks by using prepared statments. Once they have signed up, users will recieve an email verification that they wuill have to confirm before rthey are aloud to access thier account.#
 
 **Sign In**
-
 Once users have signed up, they will then have access to their own profile which can be viewed by others
 
 This project is a web app that utilizes the cloud. This web app allows users to sign up and share images and interact with each other. Amazon Web Services provides cloud services that the app uses. Services include:
