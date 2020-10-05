@@ -8,7 +8,7 @@ This project is a web app that utilizes the cloud. This web app allows users to 
  - CloudFront for data privacy 
  - Rekognition for machine learning
  
-**Sign Up**
+## Sign Up
 Users have to sign up to share their images. They need to insert a valid email and password (over 8 characters and include a number) to sign up to this app. When signin up users will have to pass a verification test via Googles Recaptcha V2. This is to stop any bots or spam sign ups. The databse is also protected from SQL injection attacks by using prepared statments. Once they have signed up, users will recieve an email verification that they wuill have to confirm before rthey are aloud to access thier account.
 
 **Sign In**
