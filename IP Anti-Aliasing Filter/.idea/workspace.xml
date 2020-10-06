@@ -1,109 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9be1eda7-1e50-40b3-be47-945816924100" name="Default Changelist" comment="Driver sa17419 Navigator gn16998&#10;video process is now automatic (start button changes visibility to stop user disruption)">
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/.idea/deployment.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/.idea/libraries/JDK.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/Codemology Analysis.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/Ffmpeg/avcodec-58.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/Ffmpeg/avdevice-58.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/Ffmpeg/avfilter-7.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/Ffmpeg/avformat-58.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/Ffmpeg/avutil-56.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/Ffmpeg/ffmpeg.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/Ffmpeg/final_output.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/Ffmpeg/postproc-55.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/Ffmpeg/soundtracks/soundtrack1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/Ffmpeg/soundtracks/soundtrack2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/Ffmpeg/soundtracks/soundtrack3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/Ffmpeg/soundtracks/soundtrack4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/Ffmpeg/soundtracks/soundtrack5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/Ffmpeg/swresample-3.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/Ffmpeg/swscale-5.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/JDK/jcodec-0.2.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/JDK/jcodec-javase-0.2.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/JDK/mockito-1.8.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/JDK/opencv-340.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/JDK/opencv_java340.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/LP Filter.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/LP Filter.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Images/LoisGriffel_Landscape.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Images/Wheatfield.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Images/apple.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Images/beaches.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Images/bluehue.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Images/carts.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Images/family.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Images/garden.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Images/house.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Images/image_2960.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Images/images.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Images/index.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Images/lady.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Images/pacific-coast-impressionist-art.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Images/screenshot-2017-07-13-13.37.15.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Images/sisters.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Images/working.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Result/LoisGriffel_Landscape.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Result/MVIMG_20200426_140930.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Result/MVIMG_20200426_141011.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Result/MVIMG_20200426_142448.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Result/MVIMG_20200904_121742.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Result/MVIMG_20200912_183448.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Result/apple.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Result/beaches.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Result/bluehue.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Result/carts.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Result/family.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Result/garden.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Result/house.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Result/pacific-coast-impressionist-art.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/assets/Result/screenshot-2017-07-13-13.37.15.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/out/artifacts/LP_Filter_jar/LP Filter.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/out/production/Group10 Project/Framework/GUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/out/production/Group10 Project/Framework/MainClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/out/production/Group10 Project/MovieMaker/MainRecorder$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/out/production/Group10 Project/MovieMaker/MainRecorder$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/out/production/Group10 Project/MovieMaker/MainRecorder$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/out/production/Group10 Project/MovieMaker/MainRecorder$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/out/production/Group10 Project/MovieMaker/MainRecorder$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/out/production/Group10 Project/MovieMaker/MainRecorder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/out/production/Group10 Project/MovieMaker/RecorderTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/out/production/Group10 Project/SoundTrack/SoundTrack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/out/production/Group10 Project/Tests/GUITest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/out/production/Group10 Project/Tests/MainRecorderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/out/production/Group10 Project/Tests/RecorderTaskTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/out/production/Group10 Project/Tests/SoundTrackTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/out/production/LP Filter/Framework/GUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/out/production/LP Filter/Framework/MainClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/out/production/LP Filter/MovieMaker/MainRecorder$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/out/production/LP Filter/MovieMaker/MainRecorder$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/out/production/LP Filter/MovieMaker/MainRecorder$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/out/production/LP Filter/MovieMaker/MainRecorder$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/out/production/LP Filter/MovieMaker/MainRecorder$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/out/production/LP Filter/MovieMaker/MainRecorder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/out/production/LP Filter/MovieMaker/RecorderTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/out/production/LP Filter/SoundTrack/SoundTrack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/out/production/LP Filter/Tests/GUITest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/out/production/LP Filter/Tests/MainRecorderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/out/production/LP Filter/Tests/RecorderTaskTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/out/production/LP Filter/Tests/SoundTrackTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/src/Framework/GUI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/src/Framework/MainClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/src/MovieMaker/MainRecorder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/src/MovieMaker/RecorderTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/src/SoundTrack/SoundTrack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/src/Tests/GUITest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/src/Tests/MainRecorderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/src/Tests/RecorderTaskTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP FIlter/src/Tests/SoundTrackTest.java" beforeDir="false" />
-    </list>
+    <list default="true" id="9be1eda7-1e50-40b3-be47-945816924100" name="Default Changelist" comment="Driver sa17419 Navigator gn16998&#10;video process is now automatic (start button changes visibility to stop user disruption)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -305,7 +203,7 @@
       <workItem from="1582971659472" duration="611000" />
       <workItem from="1601460233094" duration="7641000" />
       <workItem from="1601468197406" duration="649000" />
-      <workItem from="1601976384844" duration="65000" />
+      <workItem from="1601976384844" duration="675000" />
     </task>
     <task id="LOCAL-00001" summary="Driver sa17419 Navigator gn16998&#10;I have fixed the problem with the GUI having to be stationary when recording&#10;After every frame is encoded, the GUI's location is set">
       <created>1574266835182</created>
