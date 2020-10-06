@@ -3,4 +3,11 @@ Clients and servers can be started in either lanaguage.
 Java clients can communicate with Java and C# servers. 
 C# clients can communicate with Java and C# servers. 
 
+Executables:
+- [Java Client](https://github.com/SamAbley/Showcase/blob/master/Crossplay%20Ball%20game/JavaClient.jar)
+- [Java Server](https://github.com/SamAbley/Showcase/blob/master/Crossplay%20Ball%20game/JavaServer.jar)
+- [C# Client](https://github.com/SamAbley/Showcase/blob/master/Crossplay%20Ball%20game/GameClient.exe)
+- [C# Server](https://github.com/SamAbley/Showcase/blob/master/Crossplay%20Ball%20game/GameServer.exe)
+
+
 Read me still in progress 
