@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9be1eda7-1e50-40b3-be47-945816924100" name="Default Changelist" comment="Driver sa17419 Navigator gn16998&#10;video process is now automatic (start button changes visibility to stop user disruption)" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ToGElGRQKMrnTDwhztZoxVg4CM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder4" value="4" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder5" value="5" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth0" value="190" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth1" value="190" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth2" value="191" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth3" value="190" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth4" value="191" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth5" value="190" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder4" value="4" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder5" value="5" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth0" value="190" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth1" value="190" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth2" value="191" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth3" value="190" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth4" value="191" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth5" value="190" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Tests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\abley\OneDrive - University of Essex\Uni 3rd Year\CE320- Extreme Programming\Group10 Project\JDK" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\abley\OneDrive - University of Essex\Uni 3rd Year\CE320- Extreme Programming\Group10 Project\JDK" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainClass">
+    <configuration name="GUITest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tests.GUITest" />
+      <module name="LP Filter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Framework.MainClass" />
+      <module name="LP Filter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Framework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClassTest.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LP Filter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.MainClassTest" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainRecorderTest.The_Main_Recorder_Output_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LP Filter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.MainRecorderTest" />
+      <option name="METHOD_NAME" value="The_Main_Recorder_Output_Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainRecorderTest.The_Main_Recorder_Test_Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LP Filter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.MainRecorderTest" />
+      <option name="METHOD_NAME" value="The_Main_Recorder_Test_Runner" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="JUnit.MainRecorderTest.The_Main_Recorder_Output_Test" />
+        <item itemvalue="JUnit.MainRecorderTest.The_Main_Recorder_Test_Runner" />
+        <item itemvalue="Application.GUITest" />
+        <item itemvalue="JUnit.MainClassTest.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\abley\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9be1eda7-1e50-40b3-be47-945816924100" name="Default Changelist" comment="" />
+      <created>1574118706662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574118706662</updated>
+      <workItem from="1574118709954" duration="204000" />
+      <workItem from="1574266398610" duration="451000" />
+      <workItem from="1574269229275" duration="145000" />
+      <workItem from="1574269452065" duration="260000" />
+      <workItem from="1574364328728" duration="1927000" />
+      <workItem from="1574519270649" duration="310000" />
+      <workItem from="1574847687945" duration="10361000" />
+      <workItem from="1574860321553" duration="330000" />
+      <workItem from="1574887470568" duration="2309000" />
+      <workItem from="1575329088449" duration="4380000" />
+      <workItem from="1575409365695" duration="75000" />
+      <workItem from="1575409562197" duration="1630000" />
+      <workItem from="1575455400424" duration="654000" />
+      <workItem from="1575469734407" duration="545000" />
+      <workItem from="1575474608578" duration="257000" />
+      <workItem from="1575479137943" duration="70000" />
+      <workItem from="1575479280423" duration="83000" />
+      <workItem from="1575500271385" duration="1717000" />
+      <workItem from="1575531930220" duration="30000" />
+      <workItem from="1579089442417" duration="2553000" />
+      <workItem from="1582971659472" duration="611000" />
+      <workItem from="1601460233094" duration="7641000" />
+      <workItem from="1601468197406" duration="649000" />
+    </task>
+    <task id="LOCAL-00001" summary="Driver sa17419 Navigator gn16998&#10;I have fixed the problem with the GUI having to be stationary when recording&#10;After every frame is encoded, the GUI's location is set">
+      <created>1574266835182</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574266835182</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Driver sa17419 Navigator gn16998&#10;The recorder now only records the image displayed on the GUI; it crops out the UI when recording&#10;The frame rate has also increased from 4 to 20">
+      <created>1574366133879</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574366133879</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Driver sa17419 Navigator afernad&#10;the sound and video combination files are now present">
+      <created>1574848778394</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574848778394</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Driver afernad Navigator sa17419&#10;Afernad sent me the code to commit for him because his M drive wasn't working at the time. &#10;At the end of the movie maker the soundtrack is combined with the video">
+      <created>1574851535167</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574851535167</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Driver sa17419 Navigator afernad&#10;There now is only one video output file to allow the GUI to recognises it when the user clicks download, this is regardless of whether the user chooses a soundtrack or not.&#10;The outputted file is called 'final_output.mp4'.&#10;There is also a test for this added to the test class">
+      <created>1574857787543</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1574857787543</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Driver sa17419 Navigator afernad&#10;Test is fixed">
+      <created>1574887948331</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574887948332</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Driver tbuisl Navigator sa17419 &#10;cleaning unused code and classes">
+      <created>1575329598187</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1575329598187</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Driver tbuisl Navigator sa17419 &#10;cleaning unused code and classes">
+      <created>1575329637096</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1575329637096</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Driver tbuisl Navigator sa17419 &#10;committing out folder after successful build">
+      <created>1575329689453</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1575329689453</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Driver sa17419 navigator afernad &#10;adding jdk folder to library">
+      <created>1575329778512</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1575329778512</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Driver sa17419 Navigator am16476&#10;incremental blurs now appear on the GUI&#10;blur strength was reduced&#10;and a timer goes off 4 times (at the moment) increasing the blur each time">
+      <created>1575406400671</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1575406400671</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Driver sa17419 Navigator am16476&#10;blur increments fixed&#10;slider now chooses how many times it blurs the image">
+      <created>1575407654542</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1575407654542</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Driver sa17419 Navigator am16476&#10;movie maker fps sorted (now 20fps)&#10;The image before blurring now appears on the video">
+      <created>1575408681109</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1575408681109</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Driver sa17419 Navigator afernad&#10;merging files">
+      <created>1575408952323</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1575408952323</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Driver sa17419 Navigator am16476&#10;blur increments now dont just blur more times when the slider is increased, but now increases the intensity too">
+      <created>1575411140657</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1575411140657</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Driver sa17419 Navigator gn16998&#10;Commit out folder as other team members programs do not work">
+      <created>1575469816760</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1575469816760</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Driver sa17419 Navigator gn16998&#10;Blur 1 on slider did nothing so algorithm was tweaked to give the lower values more strength&#10;The new GUI had made the video recorder go off by a few pixels and captured the a bit of the GUI. it has been readjusted">
+      <created>1575501915938</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1575501915939</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Driver sa17419 Navigator gn16998&#10;I have fixed the problem with the GUI having to be stationary when recording&#10;After every frame is encoded, the GUI's location is set" />
+    <MESSAGE value="Driver sa17419 Navigator afernad&#10;The sound and video combining files are now present." />
+    <MESSAGE value="Driver sa17419 Navigator gn16998&#10;The recorder now only records the image displayed on the GUI; it crops out the UI when recording&#10;The frame rate has also increased from 4 to 20" />
+    <MESSAGE value="Driver sa17419 Navigator afernad&#10;the sound and video combination files are now present" />
+    <MESSAGE value="Driver afernad Navigator sa17419&#10;Afernad sent me the code to commit for him because his M drive wasn't working at the time. &#10;At the end of the movie maker the soundtrack is combined with the video" />
+    <MESSAGE value="Driver sa17419 Navigator afernad&#10;There now is only one video output regardless of whether the user chooses a soundtrack or not; called 'final_output.mp4' so that the GUI recognises it no matter the soundtrack.&#10;There is also a test for this added to the test class" />
+    <MESSAGE value="Driver sa17419 Navigator afernad&#10;There now is only one video output file to allow the GUI to recognises it when the user clicks download, this is regardless of whether the user chooses a soundtrack or not.&#10;The outputted file is called 'final_output.mp4'.&#10;There is also a test for this added to the test class" />
+    <MESSAGE value="Driver sa17419 Navigator afernad&#10;Test is fixed" />
+    <MESSAGE value="Driver tbuisl Navigator sa17419&#10;cleaning unused code and classes" />
+    <MESSAGE value="Driver tbuisl Navigator sa17419 &#10;cleaning unused code and classes" />
+    <MESSAGE value="Driver tbuisl Navigator sa17419 &#10;committing out folder after successful build" />
+    <MESSAGE value="Driver sa17419 navigator afernad &#10;adding jdk folder to library" />
+    <MESSAGE value="Driver tbuisl Navigator sa17419&#10;attempting to fix opencv error" />
+    <MESSAGE value="Driver sa17419 Navigator am16476&#10;incremental blurs now appear on the GUI&#10;blur strength was reduced&#10;and a timer goes off 4 times (at the moment) increasing the blur each time" />
+    <MESSAGE value="Driver sa17419 Navigator am16476&#10;blur increments fixed&#10;slider now chooses how many times it blurs the image" />
+    <MESSAGE value="Driver sa17419 Navigator am16476&#10;movie maker fps sorted (now 20fps)&#10;The image before blurring now appears on the video" />
+    <MESSAGE value="Driver sa17419 Navigator afernad&#10;merging files" />
+    <MESSAGE value="Driver sa17419 Navigator am16476&#10;blur increments now dont just blur more times when the slider is increased, but now increases the intensity too" />
+    <MESSAGE value="Driver sa17419 Navigator gn16998&#10;Commit out folder as other team members programs do not work" />
+    <MESSAGE value="Driver sa17419 Navigator gn16998&#10;Blur 1 on slider did nothing so algorithm was tweaked to give the lower values more strength&#10;The new GUI had made the video recorder go off by a few pixels and captured the a bit of the GUI. it has been readjusted" />
+    <option name="LAST_COMMIT_MESSAGE" value="Driver sa17419 Navigator gn16998&#10;Blur 1 on slider did nothing so algorithm was tweaked to give the lower values more strength&#10;The new GUI had made the video recorder go off by a few pixels and captured the a bit of the GUI. it has been readjusted" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1053" y="100" width="774" height="840" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1601460815210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1053" y="100" width="774" height="840" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601460815210" />
+    <state x="1201" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601460433576">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1201" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601460433576" />
+    <state x="371" y="86" key="CommitChangelistDialog2" timestamp="1601460241896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="371" y="86" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601460241896" />
+    <state x="1106" y="261" key="FileChooserDialogImpl" timestamp="1601462648004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1106" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601462648004" />
+    <state width="958" height="283" key="GridCell.Tab.0.bottom" timestamp="1601469746700">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="958" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601469746700" />
+    <state width="958" height="283" key="GridCell.Tab.0.center" timestamp="1601469746700">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="958" height="283" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601469746700" />
+    <state width="958" height="283" key="GridCell.Tab.0.left" timestamp="1601469746700">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="958" height="283" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601469746700" />
+    <state width="958" height="283" key="GridCell.Tab.0.right" timestamp="1601469746700">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="958" height="283" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601469746700" />
+    <state width="958" height="352" key="GridCell.Tab.1.bottom" timestamp="1601461880476">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="958" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601461880476" />
+    <state width="958" height="352" key="GridCell.Tab.1.center" timestamp="1601461880476">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="958" height="352" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601461880476" />
+    <state width="958" height="352" key="GridCell.Tab.1.left" timestamp="1601461880476">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="958" height="352" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601461880476" />
+    <state width="958" height="352" key="GridCell.Tab.1.right" timestamp="1601461880476">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="958" height="352" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601461880476" />
+    <state x="1027" y="240" key="RollbackChangesDialog" timestamp="1601460971686">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1027" y="240" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601460971686" />
+    <state x="880" y="94" key="SettingsEditor" timestamp="1601460489858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="880" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601460489858" />
+    <state x="1257" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601460989267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1257" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601460989267" />
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1601464799621">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601464799621" />
+  </component>
+</project>
