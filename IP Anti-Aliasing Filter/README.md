@@ -1,5 +1,7 @@
 # Anti-Aliasing/ Low Pass Filter
-This is a **desktop app written in Java**. The project was left field, with **no prior knowledge of the content**, the client had to work closely with the team to make sure it was done correctly. The app uses **post proccessing to blur photos** to eliminate the problem of Moire (rainbow effect caused by to much of detail). The output is a blurred photo and an optional video of the proccess. 
+ 
+
+Impressionist painting anti-alaising/ low pass filter is a Java desktop app. It can be accessed through the ("Anti-Aliasing filter.Jar" file)[https://github.com/SamAbley/Showcase/blob/master/IP%20Anti-Aliasing%20Filter/Anti-Aliasing%20Filter.jar]. This app takes impressionist paintings and applies a blur to them to show the overall detail and remove any Moire effect from the photo having to much detail. This subject was unknown by any of the team members so the client was heavly involved in the process.
 
 
 ## Choosing Photos
