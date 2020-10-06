@@ -1,8 +1,11 @@
 # Showcase
-**CrossPlay ball Game**
+## SOC: Sharing Over The Cloud**
+This is a full stack web app that is currently live using this domain 
 
-**LP Filter**
+## CrossPlay ball Game**
 
-**SOC: Sharing Over The Cloud**
+## LP Filter**
+
+
 
 This file is still currently being updated
