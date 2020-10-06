@@ -5,7 +5,7 @@ This is a **full-stack web app** that is currently live and can be accessed via 
 ## CrossPlay Ball Game
 This is a **socket server app** that communicates across languages. It uses **Java and C#** clients and servers. Any client can connect to any server regardless of the language it was written in. **Without any prior knowledge of C#**, the C# programs ended on par with the Java versions.
 
-## Anti- Aliasing/ Low Pass Filter
+## Imressionist Painting Anti- Aliasing/ Low Pass Filter
 This is a **desktop app written in Java**. The project was left field, with **no prior knowledge of the content**, the client had to work closely with the team to make sure it was done correctly. The app uses **post proccessing to blur photos** to eliminate the problem of Moire (rainbow effect caused by to much of detail). The output is a blurred photo and an optional video of the proccess. 
 
 
