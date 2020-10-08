@@ -1,5 +1,5 @@
 # SOC: Sharing Over the Cloud web app
-**If you want to view the output of this project then go to [SOC](http://ec2-3-8-195-243.eu-west-2.compute.amazonaws.com/SOC/)**
+**If you want to view the output of this project then go to [SOC](http://ec2-3-9-176-86.eu-west-2.compute.amazonaws.com/SOC/)**
 
 This project is a web app that utilizes the cloud. This web app allows users to sign up, sign in, share photos and communicate with one another. The cloud services that the app uses are provided by Amazon web service (AWS). Services include:
  - EC2 for platform hosting
