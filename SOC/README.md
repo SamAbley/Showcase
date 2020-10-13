@@ -1,5 +1,6 @@
 # SOC: Sharing Over the Cloud web app
 **If you want to view the output of this project then go to [SOC](http://ec2-3-9-176-86.eu-west-2.compute.amazonaws.com/SOC/)**
+![SOC app home page](https://github.com/SamAbley/Showcase/blob/master/ReadME%20Images/SOC/Home%20page.png?raw=true)
 
 This project is a web app that utilizes the cloud. This web app allows users to sign up, sign in, share photos and communicate with one another. The cloud services that the app uses are provided by Amazon web service (AWS). Services include:
  - EC2 for platform hosting
@@ -10,6 +11,7 @@ This project is a web app that utilizes the cloud. This web app allows users to 
  
 ## Sign Up
 Users have to sign up to share their images. They need to insert a valid email and password (over 8 characters and include a number) to sign up to this app. When signing up, users will have to pass a verification test via Googles Recaptcha V2. This is to stop any bots or spam sign-ups. The database is also protected from SQL injection attacks by using prepared statements. Once they have signed up, users will receive an email verification that they will have to confirm before they are allowed to access their account.
+![Recaptch](https://github.com/SamAbley/Showcase/blob/master/ReadME%20Images/SOC/recaptcha.png?raw=true)
 
 ## Sign In
 Once users have signed up, they will then have access to their profile which can be viewed by others. The profile has a name, a profile picture and a bio that the user can customise to make it more personal. From this page, the user now can access uploading photos and instant messaging. They can also use the search bar to search for different categories, profile or image names. Another feature on the profile is the users top categories. The top 3 categories they the user has shared images of appears next to their bio to give other users a quick overview of the types of images that that user shares.
