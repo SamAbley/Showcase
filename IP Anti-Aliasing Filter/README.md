@@ -14,7 +14,7 @@ Photos can be uploaded in a multitude of ways.
 **Before Blur**  
 ![Before Blur](https://github.com/SamAbley/Showcase/blob/master/ReadME%20Images/IP%20Anti-Aliasing%20Filter/Before%20Blur.png?raw=true)
 
-**Low Blur**  
+<ins> **Low Blur** </ins>  
 ![Low Blur](https://github.com/SamAbley/Showcase/blob/master/ReadME%20Images/IP%20Anti-Aliasing%20Filter/blur%20low.png?raw=true)
 
 **High Blur**  
