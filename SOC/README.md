@@ -13,12 +13,15 @@ Users have to sign up to share their images. They need to insert a valid email a
 
 ## Sign In
 Once users have signed up, they will then have access to their profile which can be viewed by others. The profile has a name, a profile picture and a bio that the user can customise to make it more personal. From this page, the user now can access uploading photos and instant messaging. They can also use the search bar to search for different categories, profile or image names. Another feature on the profile is the users top categories. The top 3 categories they the user has shared images of appears next to their bio to give other users a quick overview of the types of images that that user shares.
+![Example profile page](https://github.com/SamAbley/Showcase/blob/master/ReadME%20Images/SOC/User%20profile.png?raw=true)
 
 ## Uploading Images
 The users can upload any images from their machine. If they are above 5mb then they will be compressed to bellow that value to save storage. Once the image file has been chosen, it then appears as a preview to the user so they can see what it looks like. Users can then add attributes to the photo like a name, description, categories and whether they are public or not. These attributes can help other users find these images through the search engine. The categories can be automatically generated through the machine learning feature. It extracts feature from the image and sets them as categories which allow the image to be group with others in the same category. There is a restriction on what images are allowed to be uploaded. Machine learning is implemented to extract features and words from the images so that they can be checked against a list of banned features and words. This feature stops offensive images and memes from filling the site.
+![Upload image page](https://github.com/SamAbley/Showcase/blob/master/ReadME%20Images/SOC/auto%20categories.png?raw=true)
 
 ## Instant Messaging
 Users can communicate with one another using the instant messaging feature. Users can send text and image messages to each other. Unread messages produce a red notification bubble that shows the user how many unread messages are in their inbox. This notification will disappear once the message has been read. Users can see who else is online via the green bubble that appears next to a users name when they log in; it disappears when they log off. There is a search engine so users can find other users based on their names.
+![IM page](https://github.com/SamAbley/Showcase/blob/master/ReadME%20Images/SOC/Instant%20messaging.png?raw=true)
 
 
 ### Notes
