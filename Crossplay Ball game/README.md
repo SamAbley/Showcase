@@ -8,13 +8,13 @@ Executables:
 
 ![Java Client](https://github.com/SamAbley/Showcase/blob/master/ReadME%20Images/Crossplay%20game/Java%20Client.png?raw=true)
 
-- [Java Server](https://github.com/SamAbley/Showcase/blob/master/Crossplay%20Ball%20game/JavaServer.jar)
-
-![Java Server](https://github.com/SamAbley/Showcase/blob/master/ReadME%20Images/Crossplay%20game/Java%20Server.png?raw=true)
-
 - [C# Client](https://github.com/SamAbley/Showcase/blob/master/Crossplay%20Ball%20game/GameClient.exe)
 
 ![C# Client](https://github.com/SamAbley/Showcase/blob/master/ReadME%20Images/Crossplay%20game/C%23%20Client.png?raw=true)
+
+- [Java Server](https://github.com/SamAbley/Showcase/blob/master/ReadME%20Images/Crossplay%20game/Java%20Server.png?raw=true)
+
+![Java Server](https://github.com/SamAbley/Showcase/blob/master/ReadME%20Images/Crossplay%20game/Java%20Server.png?raw=true)
 
 - [C# Server](https://github.com/SamAbley/Showcase/blob/master/Crossplay%20Ball%20game/GameServer.exe)
 
