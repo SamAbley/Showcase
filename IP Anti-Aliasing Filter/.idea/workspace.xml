@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9be1eda7-1e50-40b3-be47-945816924100" name="Default Changelist" comment="Driver sa17419 Navigator gn16998&#10;video process is now automatic (start button changes visibility to stop user disruption)" />
+    <list default="true" id="9be1eda7-1e50-40b3-be47-945816924100" name="Default Changelist" comment="Driver sa17419 Navigator gn16998&#10;video process is now automatic (start button changes visibility to stop user disruption)">
+      <change beforePath="$PROJECT_DIR$/../Crossplay Ball game/JavaServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Crossplay Ball game/JavaServer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ffmpeg/video_output.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Result/beaches.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Result/beaches.jpg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -204,6 +208,7 @@
       <workItem from="1601460233094" duration="7641000" />
       <workItem from="1601468197406" duration="649000" />
       <workItem from="1601976384844" duration="675000" />
+      <workItem from="1602591431544" duration="413000" />
     </task>
     <task id="LOCAL-00001" summary="Driver sa17419 Navigator gn16998&#10;I have fixed the problem with the GUI having to be stationary when recording&#10;After every frame is encoded, the GUI's location is set">
       <created>1574266835182</created>
