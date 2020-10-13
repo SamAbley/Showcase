@@ -1,4 +1,4 @@
-# C# & Java crossplay game
+# C# & Java Crossplay Game
 Clients and servers can be started in either lanaguage. 
 Java clients can communicate with Java and C# servers. 
 C# clients can communicate with Java and C# servers. 
