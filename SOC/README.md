@@ -32,6 +32,8 @@ Files that include components like security keys for AWS and Google have been re
 *All code was produced, maintained and belongs to Sam Abley. The only additional code from third parties are the AWS API's*
 
 ### Squence diagrams
+I have included these diagrams to show the communication between the app's front-end, back-end and third party API's. 
+
 **Sign up/Sign in**
 ![sign up/in sd](https://github.com/SamAbley/Showcase/blob/master/ReadME%20Images/SOC/Users%20sd.png?raw=true)
 
