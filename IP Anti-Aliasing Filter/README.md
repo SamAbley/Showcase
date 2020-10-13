@@ -11,15 +11,13 @@ Photos can be uploaded in a multitude of ways.
 
 
 ## Anti-Aliasing Proccess
-**Before Blur**
+**Before Blur**  
 ![Before Blur](https://github.com/SamAbley/Showcase/blob/master/ReadME%20Images/IP%20Anti-Aliasing%20Filter/Before%20Blur.png?raw=true)
 
-
-**Low Blur**
+**Low Blur**  
 ![Low Blur](https://github.com/SamAbley/Showcase/blob/master/ReadME%20Images/IP%20Anti-Aliasing%20Filter/blur%20low.png?raw=true)
 
-
-**High Blur**
+**High Blur**  
 ![High Blur](https://github.com/SamAbley/Showcase/blob/master/ReadME%20Images/IP%20Anti-Aliasing%20Filter/blur%20high.png?raw=true)
 
 This ReadMe file is still currently being updated
