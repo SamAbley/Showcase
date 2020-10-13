@@ -12,13 +12,15 @@ Photos can be uploaded in a multitude of ways.
 
 ## Anti-Aliasing Proccess
 **Before Blur**  
+Images can be reset after they have been blurred or removed completely.  
 ![Before Blur](https://github.com/SamAbley/Showcase/blob/master/ReadME%20Images/IP%20Anti-Aliasing%20Filter/Before%20Blur.png?raw=true)
 
 **Low Blur**  
-Moving the blur bar the the left will decrease the amount of blur is applied to the image.  
+Moving the blur bar the the left will decrease the amount of blur that is applied to the image.  
 ![Low Blur](https://github.com/SamAbley/Showcase/blob/master/ReadME%20Images/IP%20Anti-Aliasing%20Filter/blur%20low.png?raw=true)
 
 **High Blur**  
+Moving the blur bar the the right will increase the amount of blur that is applied to the image. 
 ![High Blur](https://github.com/SamAbley/Showcase/blob/master/ReadME%20Images/IP%20Anti-Aliasing%20Filter/blur%20high.png?raw=true)
 
 This ReadMe file is still currently being updated
