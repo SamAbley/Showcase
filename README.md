@@ -6,7 +6,7 @@ This is a **full-stack web app** that is currently live and can be accessed via 
 ---
 ## CrossPlay Ball Game
 This is a **socket server app** that communicates across languages. It uses **Java and C#** clients and servers. Any client can connect to any server regardless of the language it was written in. **Without any prior knowledge of C#**, the C# programs ended on par with the Java versions.
-![Clients in a game](https://github.com/SamAbley/Showcase/blob/master/ReadME%20Images/Crossplay%20game/Game.png?raw=true)
+![Clients in a game](https://github.com/SamAbley/Showcase/blob/master/ReadME%20Images/Crossplay%20game/Clients.png?raw=true)
 
 ---
 ## IP Anti-Aliasing/ Low Pass Filter
