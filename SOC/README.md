@@ -28,3 +28,10 @@ Users can communicate with one another using the instant messaging feature. User
 Files that include components like security keys for AWS and Google have been removed to stop any security threats. This means that the files will not work on a local server if downloaded. These files have been included so that the working of the app can be viewed. 
 
 *All code was produced, maintained and belongs to Sam Abley. The only additional code from third parties are the AWS API's*
+
+### Squence diagrams
+**Sign up/Sign in**
+![sign up/in sd](https://github.com/SamAbley/Showcase/blob/master/ReadME%20Images/SOC/Users%20sd.png?raw=true)
+
+**Photo Upload**
+![photo upload sd](https://github.com/SamAbley/Showcase/blob/master/ReadME%20Images/SOC/photo%20upload%20sd.png?raw=true)
